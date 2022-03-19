@@ -49,6 +49,9 @@ Offrs, Marketplace, kvcore, Chime
 
 ## Results
 
+Thus far, Revaluate's impact on the real estate market is difficult to gage. They are a private company, with no public finacial data. They do run a private, Revaluate User's Success Story Facebook Group, which I haven't been able to gain approval to. Revaluate has also been able to gain key partnerships for API integgration, including MS Office 365, Google and Salesforce. While financial data is scarce, Revaluate has published its performance data. Performance in this domain is measured by the comparison of suggested client transaction conversion rate. Revaluate delivers a 19% prediction rate compated to a conversion rate for online real estate leads that usually hovers between a reported 2-3%, however, The National Association of Realtors® have disclosed that the rate is actually lower and closer to 0.4% – 1.2%.
+
+
 * What has been the business impact of this company so far?
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
@@ -58,6 +61,7 @@ Offrs, Marketplace, kvcore, Chime
 The national average conversion rate for online real estate leads is usually reported to be between 2-3%, however, The National Association of Realtors® disclosed that the rate is actually closer to 0.4% – 1.2%.
 
 ## Recommendations
+
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 the product offers predictions on who in your contacts will move within 3-6 months, I would suggest they add ranking the remaining contancts by likelyhood of moving in a later window.
