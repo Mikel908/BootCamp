@@ -24,6 +24,8 @@ The team had an idea and started on the path to success when the Kauffman Founda
 
 ## Business Activities:
 
+
+
 * What specific financial problem is the company or project trying to solve?
 The software always real estate professionals to more effectively close more transactions.
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
