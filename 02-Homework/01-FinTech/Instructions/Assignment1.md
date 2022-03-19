@@ -37,6 +37,9 @@ What solution does this company offer that their competitors do not or cannot of
 
 ## Landscape:
 
+Revaluate operates in the real estate domain of the financial industy, but it can also be used in the mortgage/lending domain, as well. The FinTech major trends and innovations in this domain have been the use of publicly available information to feed artificial intellegence systems, to better predict buyers, sellers, loan eligability, as well as the automation of nuturing and following up with clients. There are a growing number of competetors in this space, with various degrees of overlap. These companies include Marketplace, Offrs, kvcore and Chime.
+
+
 * What domain of the financial industry is the company in?
 Real Estate
 * What have been the major trends and innovations of this domain over the last 5-10 years?
