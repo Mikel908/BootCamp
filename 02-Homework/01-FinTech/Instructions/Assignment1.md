@@ -1,10 +1,12 @@
 ## Mikel's HW Assignment 1
 
-3/12/22
-# TITLE
+3/19/22
+# Revaluate And Artificial Intelligence in Real Estate
 
 ## Overview and Origin
 
+ The subject of this case studay is Revaluate, and the use of artificial intelligence in the real estate market. Revaluate is a company that uses artificial intelligence to increase real estate agent lead convergence rate. It was founded in 2014 by CEO Chris Drayer and CTO Tim Segraves, and launched the first version of its product in November of 2016. Revaluate is the result of its founders' desire to "leverage technology and data, and they both liked the idea of building products that could help people in a profound way – impacting lives for the better."
+ 
 * Name of company
 Revaluate
 * When was the company incorporated?
