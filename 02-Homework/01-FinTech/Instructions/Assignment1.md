@@ -33,25 +33,37 @@ What solution does this company offer that their competitors do not or cannot of
 * What domain of the financial industry is the company in?
 Real Estate
 * What have been the major trends and innovations of this domain over the last 5-10 years?
-The major trend has to been using publicly available information to feed artificial intellegence systems, to better predict buyers, sellers, loan eligability, and other features.
+The major trend has to been using publicly available information to feed artificial intellegence systems, to better predict buyers, sellers, loan eligability, and as well as automation of nuturing and following up with clients.
 * What are the other major companies in this domain?
-Offrs, Marketplace, kvcore
+Offrs, Marketplace, kvcore, Chime
 
 ## Results
 
 * What has been the business impact of this company so far?
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
+19% prediction rate
 * How is your company performing relative to competitors in the same domain?
-
+ 
+The national average conversion rate for online real estate leads is usually reported to be between 2-3%, however, The National Association of Realtors® disclosed that the rate is actually closer to 0.4% – 1.2%.
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
+the product offers predictions on who in your contacts will move within 3-6 months, I would suggest they add ranking the remaining contancts by likelyhood of moving in a later window.
 * Why do you think that offering this product or service would benefit the company?
-
+it would allow realtor estate agents the opportunity to nurture clients they may consider moving in the near future.
 * What technologies would this additional product or service utilize?
-
+the same tech they use now
 * Why are these technologies appropriate for your solution?
+because they are already in use.
+## Work Cited
+
+https://revaluate.com/blog/about/
+
+https://revaluate.com/blog/wall-street-vs-the-real-estate-agent/
+
+https://martechseries.com/sales-marketing/chime-revaluate-combine-ai-driven-technologies-deliver-next-level-lead-conversions/
+
+https://resources.boomtownroi.com/blog/how-long-does-it-take-to-convert-online-real-estate-leads
+
