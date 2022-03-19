@@ -1,7 +1,7 @@
 ## Mikel's HW Assignment 1
 
 3/19/22
-# Revaluate And Artificial Intelligence in Real Estate
+# Revaluate And Their Use of Artificial Intelligence in Real Estate
 
 ## Overview and Origin
 
