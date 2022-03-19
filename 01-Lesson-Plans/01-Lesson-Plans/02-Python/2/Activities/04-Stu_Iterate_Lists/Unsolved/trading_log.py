@@ -10,6 +10,7 @@ over the course of a month (20 business days).
 
 profitableDays = [352, 252, 354, 56, 123, 254, 325, 47, 321, 123, 133, 613, 232]
 
+unprofitableDays = [-224, -544, -650, -43, -123, -151, -311]
 
 
 # @TODO: Initialize lists to hold profitable and unprofitable day profits/losses
