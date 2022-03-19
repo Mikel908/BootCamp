@@ -10,7 +10,8 @@ Revaluate
 * When was the company incorporated?
 Founded 2014, Nov 2016 launched first product
 * Who are the founders of the company?
-Chris Drayer, CEO..Tim Segraves, CTO..
+Chris Drayer, CEO
+Tim Segraves, CTO
 * How did the idea for the company (or project) come about?
 Both wanted to leverage technology and data, and they both liked the idea of building products that could help people in a profound way – impacting lives for the better.
 
@@ -57,7 +58,11 @@ it would allow realtor estate agents the opportunity to nurture clients they may
 the same tech they use now
 * Why are these technologies appropriate for your solution?
 because they are already in use.
+
+
 ## Work Cited
+
+https://deliverypdf.ssrn.com/delivery.php?ID=144069024001069092003127106094099099026013091078022071098086086031114025081113021109016057007032110013117126127102004113082027106033087014022112064103027112069066005087013007085116097075027026070108007005111097079107073100084120067019123121126125099&EXT=pdf&INDEX=TRUE
 
 https://revaluate.com/blog/about/
 
