@@ -24,6 +24,7 @@ The team had an idea and started on the path to success when the Kauffman Founda
 
 ## Business Activities:
 
+Revaluate is a software and API that uses artificial intelligence to determine, which among a real estate agents contacts will be most likely to move within the next three to six months. By providing this targeted group of clients to concentrate on, Revaluate allows the real estate agent to save time and money. This can increase the agent's efficiency and allow them to spend more time on other real estate tasks. Not only is this platform good for real estate agents and brokers, it is also helpful for banks, lenders and loan officers, looking to predict when clients may need their services next. Revaluate uses a predictive algorigth using publicly available and user input data to evaluate the clients.
 
 
 * What specific financial problem is the company or project trying to solve?
