@@ -83,7 +83,7 @@ header = ["Max_Salary", "Min_Salary", "Avg_Salary"]
 metrics = [max_salary, min_salary, avg_salary]
 
 # Set the output file path
-output_path = Path('output.csv')
+output_path = Path('BootCamp\01-Lesson-Plans\01-Lesson-Plans\02-Python\3\Activities\09-Ins_CSV_Reader\Solved\output.csv')
 
 # Open the output path as a file object
 with open(output_path, 'w') as csvfile:

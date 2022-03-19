@@ -18,6 +18,7 @@ print_hello()
 import numpy
 
 # Import the NumPy Financial library
+
 import numpy_financial as npf
 
 # Initialize variables

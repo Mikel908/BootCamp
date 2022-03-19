@@ -7,29 +7,33 @@ row of the file to calculate customer sales averages.
 """
 
 # @TODO: Import the pathlib and csv library
-
+from pathlib import Path
+import csv
 
 
 # @TODO: Set the file path
+csvpath = Path('BootCamp\01-Lesson-Plans\01-Lesson-Plans\02-Python\3\Activities\10-Stu_CSV_Reader\Resources\sales.csv')
 
 
 # @TODO: Initialize dictionary
-
+sales = []
 
 # @TODO: Open the csv file as an object
+with open(csvpath, 'r') as csvfile:
 
     # @TODO:
     # Pass in the csv file to the csv.reader() function
     # (with ',' as the delmiter/separator) and return the csvreader object
-
+        csvreader = csv.reader(csvfile, delimiter=',')
+            
 
     # @TODO: Read the header row first (skip this step if there is no header)
-
+        csv_header = next(csvreader)
     # @TODO: Print the header
 
-
+       print(csv_header)
     # @TODO: Read each row of data after the header
-
+        csv_header.append("Average")
         # @TODO: Print the row
 
         # @TODO:

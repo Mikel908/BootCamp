@@ -7,6 +7,9 @@ undertake based on max NPV values.
 
 # @TODO: Import the NumPy Financial (numpy_financial) library
 
+import numpy
+import numby_financial
+
 
 # Discount Rate
 discount_rate = .1
@@ -21,7 +24,7 @@ npv_dict = {}
 
 # @TODO: Calculate the NPV for each scenario
 
-
+numpy.pv()
 
 
 # @TODO: Initialize variables
