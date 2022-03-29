@@ -1,4 +1,4 @@
-# Getting Familiar with the Terminal
+vi# Getting Familiar with the Terminal
 
 In this activity, you'll get more practice with terminal commands.
 

@@ -4,37 +4,37 @@
 ######################
 
 # Make a variable called `c1_name` and have it equal a string of "Mr. Farley".
-
+c1_name = "Mr. Farley"
 
 # Make a variable called `c1_age` and have it equal to an integer of 65.
-
+c1_age = 65
 
 # Make a variable called `c1_profession` and have it equal to "Web Developer".
-
+c1_profession = "Web Developer"
 
 # Make a variable called `c1_salary` and have it equal to 100000.
-
+c1_salary = 10000
 
 # Make a variable called `c1_species` and have it equal to "cat".
-
+c1_species = "cat"
 
 # Make a variable called `c1_location` and have it equal to "San Francisco, CA".
-
+c1_location "San Francisco, CA"
 
 # Make a variable called `c1_monthly_rent` and have it equal to 2000.
-
+c1_monthly_rent = 2000
 
 # Make a variable called `c1_monthly_expenses` and have it equal to 1500.
-
+c1_monthly_expenses = 1500
 
 # Make a variable called `c1_yearly_rent` and have it equal to `c1_monthly_rent` * 12.
-
+c1_yearly_rent = c1_monthly_rent * 12
 
 # Make a variable called `c1_yearly_expenses` and have it equal to 1500.00 * 12
-
+c1_yearly_expenses = 1500.0 * 12
 
 # Make a variable called `c1_savings` and have it equal to `c1_salary` - (`c1_yearly_rent` + `c1_yearly_expenses`)
-
+c1_savings = c1_salary - (c1_yearly_rent + c1_yearly_expenses)
 
 
 ######################
@@ -43,24 +43,24 @@
 
 # Make a variable called `c2_name` and have it equal a string of "Mr. Snuggles".
 
-
+c2_name = "Mr. Snuggles"
 # Make a variable called `c2_age` and have it equal to an integer of 30.
-
+c2_age = 30
 
 # Make a variable called `c2_species` and have it equal to "mouse".
-
+c2_species = "mouse"
 
 # Make a variable called `c2_profession` and have it equal "Accountant"
-
+c2_profession = "Accountant"
 
 # Make a variable called `c2_salary` and have it equal to 70000.
-
+c2_salary = 70000
 
 # Make a variable called `c2_location` and have it equal to "Oakland, CA".
-
+c2_location = "Oakland, CA"
 
 # Make a variable called `c2_monthly_rent` and have it equal to 4000.
-
+c2_monthly_rent = 4000
 
 # Make a variable called `c2_monthly_expenses` and have it equal to 500.
 
