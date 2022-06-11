@@ -1,0 +1,37 @@
+--HW SQL 7
+--Part 1 
+
+--Grouped by each card holder, how many transactions are under $2
+Select c."Full_name", date_trunc('day', date), count(*) AS small_transaction_count FROM "Transactions" t
+INNER JOIN "Credit_card" cc
+ON cc."card_number" = t.card_number
+INNER JOIN "Card_holder" c
+on cc."card_holder_id" = c."card_holder_id"
+Where amount < 2
+GROUP BY cc.card_holder_id , c."Full_name", date_trunc('day',date)
+ORDER BY small_transaction_count DESC;
+ 
+--Top transactions between 7 and 9 am
+DROP VIEW morning_transactions IF EXISTS;
+CREATE VIEW morning_transactions AS 
+
+SELECT* FROM "Transactions"
+Where date_part('hour',date)BETWEEN 7 AND 9
+ORDER BY amount DESC
+LIMIT 100;
+
+SELECT count(*) FROM morning_transactions;
+
+-- Higher frequency of transactios 7-9 or outside?
+DROP VIEW IF EXISTS outside_morning_transactions;
+CREATE VIEW outside_morning_transactions AS 
+
+SELECT* FROM "Transactions"
+Where date_part('hour',date) NOT BETWEEN 7 AND 9
+ORDER BY amount DESC
+LIMIT 100;
+
+SELECT count(*) FROM outside_morning_transactions;
+
+
+

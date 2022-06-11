@@ -1,0 +1,10 @@
+--Grouped by each card holder, how many transactions are under $2
+
+Select card_holder_id, count(*) as small_transaction_count FROM "Transactions" t
+INNER JOIN "Credit_card" cc
+ON cc."card_number" = t.card_number
+INNER JOIN "Card_holder" c
+ON cc."card_holder_id"
+Where amount < 2
+GROUP BY card_holder_id
+ORDER BY small_transaction_count DESC;
